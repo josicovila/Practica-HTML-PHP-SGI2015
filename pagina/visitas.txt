@@ -1,0 +1,4 @@
+﻿0;Josico;correo@electronico.com;Probando el libro de visitas. Me gusta mucho la página y tal y tal.;18/02/2015
+1;Anónimo;alguno@otro.com;Otro comentario de prueba una vez colgado en el servidor. Vamos a hacer que el comentario sea más largo y más y más.;18/02/2015
+2;Josico;a@b.com;comentario con<br>saltos<br>de linea.;18/02/2015
+3;Pepe;p@p.com;PRUEBA;18/02/2015
